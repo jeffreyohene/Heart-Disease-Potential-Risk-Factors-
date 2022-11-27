@@ -6,3 +6,13 @@ Portfolio of problems solved using Machine Learning
 
 
 
+### LINEAR REGRESSION
+
+
+
+### NATIVE BAYES
+
+
+### CLASSIFICATION
+
+
