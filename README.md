@@ -13,6 +13,6 @@ Portfolio of problems solved using Machine Learning
 ### NATIVE BAYES
 
 
-### CLASSIFICATION
+### CLASSIFICATION TREES
 
 
